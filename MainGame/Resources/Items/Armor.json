@@ -1,0 +1,91 @@
+{
+  "woodenHelmet": {
+    "name": "Деревянный шлем",
+    "armor": 1,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:woodenHelmet"
+  },
+
+  "woodenChestplate": {
+    "name": "Деревянный нагрудник",
+    "armor": 3,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:woodenChestplate"
+  },
+
+  "batteredGloves": {
+    "name": "Потрёпанные перчатки",
+    "armor": 0,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:batteredGloves"
+  },
+
+  "woodenGreaves": {
+    "name": "Деревянные поножи",
+    "armor": 2,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:woodenGreaves"
+  },
+
+  "woodenBoots": {
+    "name": "Деревянные сапоги",
+    "armor": 1,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:woodenBoots"
+  },
+
+  "elderLeftRing": {
+    "name": "Старое левое кольцо",
+    "armor": 0,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:elderLeftRing"
+  },
+
+  "elderRightRing": {
+    "name": "Старое правое кольцо",
+    "armor": 0,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:elderRightRing"
+  },
+
+  "elderAmulet": {
+    "name": "Старый амулет",
+    "armor": 0,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:elderAmulet"
+  },
+
+  "batteredCloak": {
+    "name": "Порванная накидка",
+    "armor": 0,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "armor:batteredCloak"
+  }
+}

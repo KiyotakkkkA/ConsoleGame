@@ -1,0 +1,23 @@
+{
+  "fists": {
+    "name": "Кулаки",
+    "damage": 3,
+    "staminaCost": 5,
+    "moneyCost": 0,
+    "effectID": -1,
+    "rarity": "-",
+    "levelNeed": 1,
+    "nameID": "weapons:fists"
+  },
+
+  "woodenSword": {
+    "name": "Деревянный меч",
+    "damage": 7,
+    "staminaCost": 6,
+    "moneyCost": 15,
+    "effectID": -1,
+    "rarity": "F",
+    "levelNeed": 2,
+    "nameID": "weapons:woodenSword"
+  }
+}

@@ -1,0 +1,36 @@
+{
+ "questNameID": "MQ1",
+ "questName": "СТАРТ",
+ "M1": {
+  "data": [
+   "ПРИВЕТ!"
+  ]
+ },
+ "A6": {
+  "playerAnswers": [
+   "Проверка 1",
+   "Проверка 2"
+  ],
+  "otherAnswers": [
+   {
+    "data": [
+     "Неправильно"
+    ]
+   },
+   {
+    "data": [
+     "Правильно"
+    ]
+   }
+  ],
+  "returnBack": [
+   true,
+   false
+  ]
+ },
+ "M6": {
+  "data": [
+   "КОНЕЦ!"
+  ]
+ }
+}

@@ -1,0 +1,111 @@
+QWidget {
+    background-color: #ddd5c1;
+    font-family: Arial, sans-serif;
+}
+
+QLabel {
+    background-color: #ddd5c1;
+    color: #333;
+    font-size: 16px;
+    color: black;
+}
+
+QPushButton {
+    background-color: #60937b;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: #37564c;
+}
+
+QDialog QPushButton {
+    background-color: #60937b;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+}
+
+QDialog QPushButton:hover {
+    background-color: #37564c;
+}
+
+QLineEdit {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+}
+
+QTextEdit {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    color: black;
+    font-size: 16px;
+}
+
+QComboBox {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 3px;
+    color: black;
+}
+
+QGroupBox {
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-top: 20px;
+    background-color: #b8a997;
+}
+
+QGroupBox QLabel {
+    background-color: #b8a997;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+QComboBox QAbstractItemView {
+    background-color: white;
+    color: black;
+    selection-background-color: white;
+    selection-color: black;
+}
+
+QTabBar::tab {
+    background-color: lightgrey;
+    color: black;
+}
+
+QTabBar::tab:hover {
+    background-color: grey;
+}
+
+QTabBar::tab:selected {
+    background-color: #b8a997;
+}
+
+QCheckBox {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: lightgrey;
+    color: black;
+}
+
+QGroupBox QLineEdit {
+    font-size: 16px;
+}
+
+QDialog QLabel {
+    background-color: #ddd5c1;
+    color: #333;
+    font-size: 16px;
+    color: black;
+}
+

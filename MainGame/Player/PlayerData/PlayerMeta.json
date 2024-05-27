@@ -1,0 +1,22 @@
+{
+ "newGame": 0,
+ "name": "-",
+ "level": 1,
+ "money": 50,
+ "exp": 0,
+ "glovesID": "armor:batteredGloves",
+ "helmetID": "armor:woodenHelmet",
+ "chestplateID": "armor:woodenChestplate",
+ "greavesID": "armor:woodenGreaves",
+ "bootsID": "armor:woodenBoots",
+ "rightRingID": "armor:elderRightRing",
+ "leftRingID": "armor:elderLeftRing",
+ "amuletID": "armor:elderAmulet",
+ "cloakID": "armor:batteredCloak",
+ "current_hp": 100,
+ "current_energy": 100,
+ "current_stamina": 100,
+ "isPlayerMenuUnlocked": 0,
+ "isEndlessFightUnlocked": 0,
+ "isBountyTasksUnlocked": 0
+}

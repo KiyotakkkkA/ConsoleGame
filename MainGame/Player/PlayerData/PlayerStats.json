@@ -1,0 +1,20 @@
+{
+  "max_hp": 100,
+  "max_energy": 100,
+  "max_stamina": 100,
+
+  "hp_regen": 2,
+  "energy_regen": 3,
+  "stamina_regen": 5,
+
+  "physic_damage": 7,
+  "magic_damage": 5,
+
+  "armor": 4,
+  "evasion": 0.05,
+  "magic_resistance": 0,
+  "magic_amplification": 1,
+
+  "crit_chance": 0.05,
+  "crit_damage": 2
+}
